@@ -1,0 +1,53 @@
+[ 그래픽 드라이버 설치(window) ]
+그래픽 종류 확인 방법 : 장치 관리자 -> 디스플레이 어댑터 -> NVIDIA GeForce GTX 1660
+
+nvidia 드라이버 다운로드 사이트 : https://www.nvidia.co.kr/Download/index.aspx?lang=kr
+nvidia 드라이버 설치 가이드 사이트 : https://wjdqh6544.tistory.com/989
+
+nvidia 드라이버 버전 확인 방법 : cmd -> nvidia-smi
+
+-------
+[ Visual Studio 설치 ]
+Visual Studio 다운로드 사이트 : https://my.visualstudio.com/Downloads?q=visual%20studio%202019&wt.mc_id=o~msft~vscom~older-downloads
+Visual Studio 설치 가이드 사이트 : https://sosopro.tistory.com/150
+
+-------
+[ (Ubuntu), Nvidia driver, CUDA, cuDNN, TensorFlow 호환 버전 확인 ]
+NVIDIA GeForce GTX 1660에 맞는 버전 다운로드 사이트 : https://webnautes.tistory.com/1454
+GPU 드라이버에 맞는 CUDA 버전 확인 사이트 : https://docs.nvidia.com/cuda/cuda-toolkit-release-notes/index.html
+CUDA 버전에 맞는 cuDNN과 TensorFlow 버전 확인 사이트 : https://www.tensorflow.org/install/source_windows#gpu
+
+-------
+[ CUDA / cuDNN / TensorFlow 설치 ]
+전체 설치 가이드 사이트 : https://uwgdqo.tistory.com/341
+
+CUDA 다운로드 사이트 : https://developer.nvidia.com/cuda-11.2.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exelocal
+
+cuda 버전 확인 방법 : nvcc --version
+tensorflow 버전 확인 방법 : pip freeze
+
+-------
+[ OpenCV 설치 ]
+opencv 버전 다운로드 사이트 : https://sourceforge.net/projects/opencvlibrary/files/
+opencv 설치 가이드 사이트 : https://mickael-k.tistory.com/20?category=798523 또는 https://bestmanintheworld.tistory.com/1
+
+-------
+[ darknet 빌드 ]
+darknet 다운로드 사이트 : https://github.com/AlexeyAB/darknet
+darknet 빌드 가이드 사이트 : https://mickael-k.tistory.com/15
+
+-------
+[ version ]
+GeForce GTX 1660
+nvidia driver version 512.15
+CUDA version 11.2
+cuDNN version 8.1.0
+Python version 3.7.7
+tensorflow version 2.7.0
+visual studio 2019
+opencv version 4.5.1 (py -3.7 -m pip install numpy)
+
+
+
+
+
