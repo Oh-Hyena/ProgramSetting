@@ -1,0 +1,25 @@
+[ git 설치 가이드 사이트 ]
+https://taewow.tistory.com/13
+
+-------
+[ upload ]
+git clone http://github.com/Oh-Hyena/test.git
+git add .
+git commit -m "0406_modify"
+git push
+
+-------
+[ delete ]
+git rm -r --cached AttributeProgram
+git commit -m "delete dir"
+git push
+
+-------
+[ untracked files delete ]
+git status
+git clean -fd
+git status
+
+-------
+[ .git 폴더 삭제 ]
+rm -rf .git
