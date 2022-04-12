@@ -1,0 +1,7 @@
+[ mysql 설치 ]
+다운로드 사이트 : https://dev.mysql.com/downloads/mysql/
+설치 가이드 사이트 : https://dev.mysql.com/downloads/mysql/
+
+-------
+[ mysql 사용하기 ]
+기본 쿼리문 사용법 사이트 : http://www.tcpschool.com/mysql/mysql_basic_select
