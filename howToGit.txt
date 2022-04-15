@@ -4,6 +4,7 @@ https://taewow.tistory.com/13
 -------
 [ upload ]
 git clone http://github.com/Oh-Hyena/test.git
+git status
 git add .
 git commit -m "0406_modify"
 git push
