@@ -5,7 +5,7 @@ https://taewow.tistory.com/13
 [ upload ]
 git clone http://github.com/Oh-Hyena/test.git
 git status
-git add .
+git add ~ / git checkout ~ (덮어쓰기X)
 git commit -m "0406_modify"
 git push
 
