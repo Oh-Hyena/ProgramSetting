@@ -1,0 +1,27 @@
+[ virtual machine 설치 ]
+다운로드 사이트 : https://www.virtualbox.org/
+설치 가이드 사이트 : https://phantom.tistory.com/6
+
+
+[ 버추얼박스에 우분투 설치 ]
+설치 가이드 사이트 : https://phantom.tistory.com/7?category=1175951
+
+
+[ 버추얼박스에 파이썬 설치 ]
+python version : 3.7.7
+설치 가이드 사이트 : https://somjang.tistory.com/entry/PythonUbuntu%EC%97%90-Python-37-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0?category=345065
+환경변수 설정 가이드 사이트 : https://somjang.tistory.com/entry/PythonUbuntu%EC%97%90%EC%84%9C-Python37-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0bashrc%ED%8C%8C%EC%9D%BC%EC%88%98%EC%A0%95?category=345065
+
+
+[ 버추얼박스에 가상환경 만들기 ]
+설치 가이드 사이트 : https://somjang.tistory.com/entry/Pythonvirtualenv-virtualenvwrapper-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9%EB%B2%95Ubuntu?category=345065
+
+
+[ 버추얼박스에 vs code 설치 ]
+VisualStudion code : 2019
+설치 가이드 사이트 : https://mryeo.tistory.com/16
+개발환경 설정 가이트 사이트 : https://somjang.tistory.com/entry/PythonVisual-Studio-Code-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0feat-Ubuntu?category=345065
+
+
+[ 버추얼박스에 anaconda 설치 ]
+설치 가이드 사이트 : https://somjang.tistory.com/entry/PythonUbuntu1804-LTS%EC%97%90-Anaconda%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0?category=345065
