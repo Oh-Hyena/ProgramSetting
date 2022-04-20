@@ -11,6 +11,7 @@
 python version : 3.7.7
 설치 가이드 사이트 : https://somjang.tistory.com/entry/PythonUbuntu%EC%97%90-Python-37-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0?category=345065
 환경변수 설정 가이드 사이트 : https://somjang.tistory.com/entry/PythonUbuntu%EC%97%90%EC%84%9C-Python37-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0bashrc%ED%8C%8C%EC%9D%BC%EC%88%98%EC%A0%95?category=345065
+idle 설치 불가현상 가이트 사이트 : https://fmri.tistory.com/entry/Ubuntu-python-374-%EC%84%A4%EC%B9%98-idle-%EC%84%A4%EC%B9%98-%EB%B6%88%EA%B0%80%ED%98%84%EC%83%81
 
 
 [ 버추얼박스에 가상환경 만들기 ]
